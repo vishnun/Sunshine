@@ -60,5 +60,7 @@
     <string name="perf_location_key">location</string>
     <string name="units">Units</string>
     <string name="default_units">metric</string>
+    <string name="pref_units_metric">metric</string>
+    <string name="pref_units_imperial">metric</string>
     <string name="pref_units_key">units_list</string>
 </resources>
